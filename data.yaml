@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Colab Notebooks/Animal_Object_Detection/dataset/train
+val: /content/drive/MyDrive/Colab Notebooks/Animal_Object_Detection/dataset/test
+nc: 2
+names: ['cat', 'dog']
